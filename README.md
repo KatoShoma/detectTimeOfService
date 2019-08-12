@@ -10,4 +10,3 @@
 3. 卓球台をドラッグで選択
 
 4. Enter
-[tcnksm](https://github.com/tcnksm)
